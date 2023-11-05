@@ -16,7 +16,7 @@
                             Sayo Kravits
                         </h5>
                         <p class="mb-0 font-weight-bold text-sm">
-                            Public Relations
+                            apapun
                         </p>
                     </div>
                 </div>
